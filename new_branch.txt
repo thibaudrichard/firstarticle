@@ -1,1 +1,2 @@
 Branch master new file
+That's a new file, in a new branch
